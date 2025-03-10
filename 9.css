@@ -1,0 +1,14 @@
+#corpo {
+  background-color: #000;
+}
+
+#titulo {
+  color: yellow;
+  text-align: center;
+  width: auto;
+}
+
+a {
+  color: cyan;
+  font-size: 14px;
+}

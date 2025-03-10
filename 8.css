@@ -1,0 +1,27 @@
+#titulo {
+  text-align: center;
+}
+
+#container {
+  width: 90%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.imagens {
+  text-align: center;
+}
+
+td {
+  border: 1px solid black;
+}
+
+img {
+  width: 100px;
+}
+
+.desc {
+  color: green;
+  font-size: 24px;
+  text-align: center;
+}

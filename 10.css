@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+#cores {
+  font-size: 28px;
+}
+
+#verm {
+  color: red;
+}
+
+#verd {
+  color: green;
+}
+
+#amar {
+  color: yellow;
+}
+
+#azul {
+  color: blue;
+}
+
+#cian {
+  color: cyan;
+}
+
+#rosa {
+  color: pink;
+}
+
+#roxo {
+  color: purple;
+}
+
+#marr {
+  color: brown;
+}
